@@ -1,0 +1,6 @@
+# Dependencies
+node_modules
+
+# NPM Package Lock
+package-lock.json
+
